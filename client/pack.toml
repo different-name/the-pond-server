@@ -1,0 +1,13 @@
+name = "The Pond"
+author = "Different"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "619cab2895ef84296cf7e7046a77d4d23e98110b4eb6e9b964b6c2d81fa44b1b"
+
+[versions]
+fabric = "0.16.4"
+minecraft = "1.20.1"
