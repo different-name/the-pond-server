@@ -111,6 +111,21 @@ hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "47658692cb711fabfd8979f13d3be74ef39056cf3e9a5407d05bc0d4e51075d9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
 metafile = true
 
 [[files]]
