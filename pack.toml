@@ -1,4 +1,4 @@
-name = "The Pond"
+name = "The Pond Server"
 author = "Different"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6810bddb9fac7fe4e431213affb7d13fd83a2ebdb0ae2a67187d07034dea7b46"
+hash = "e8aebc1743d7efbd08c435ce8d6d5b73b3b322493897083c375f8485c596a6b3"
 
 [versions]
 fabric = "0.16.4"

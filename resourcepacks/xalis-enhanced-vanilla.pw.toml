@@ -1,0 +1,13 @@
+name = "xali's Enhanced Vanilla"
+filename = "xali's Enhanced Vanilla -1.11.2b-rev.54d51d4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Srw5RQ6k/versions/dEGWry22/xali%27s%20Enhanced%20Vanilla%20-1.11.2b-rev.54d51d4.zip"
+hash-format = "sha1"
+hash = "4eabdbc6ee1c7f8f197d346438dc9dc48f34fe88"
+
+[update]
+[update.modrinth]
+mod-id = "Srw5RQ6k"
+version = "dEGWry22"
